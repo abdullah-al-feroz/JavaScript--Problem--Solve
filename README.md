@@ -1,4 +1,3 @@
-# JavaScript--Problem--Solve
 ## JavaScript problems and solutions by w3resource.com/javascript-exercises/
 
 Author: [Abdullah-Al Firoz](https://github.com/abdullah-al-feroz)
