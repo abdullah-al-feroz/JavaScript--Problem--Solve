@@ -2,7 +2,7 @@
 
 Author: [Abdullah-Al Firoz](https://github.com/abdullah-al-feroz)
 
-#### Index
+#### ** Index
 
 | Problem Type                                                          | Number of problems                                           |
 | --------------------------------------------------------------------- | -------------------------------------------------------------- |
