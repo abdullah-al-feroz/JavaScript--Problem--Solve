@@ -1,0 +1,20 @@
+91. Write a JavaScript program to find the maximum possible sum of some of its k consecutive numbers (numbers that follow each other in order.) of a given array of positive integers.
+
+92. Write a JavaScript program to find the maximal difference between any two adjacent elements of a given array of integers.
+
+93. Write a JavaScript program to find the maximal difference among all possible pairs of a given array of integers.
+
+94. Write a JavaScript program to find the number which appears most in a given array of integers.
+
+95. Write a JavaScript program to replace all the numbers with a specified number of a given array of integers.
+
+96. Write a JavaScript program to compute the sum of absolute differences of consecutive numbers of a given array of integers.
+
+97. Write a JavaScript program to find the shortest possible string which can create a string to make it a palindrome by adding characters to the end of it.
+
+98. Write a JavaScript program to switch case of the minimum possible number of letters to make a given string written in the upper case or in the lower case.
+Fox example "Write" will be write and "PHp" will be "PHP"
+
+99. Write a JavaScript program to check whether it is possible to rearrange characters of a given string in such way that it will become equal to another given string. 
+
+100. Write a JavaScript program to check whether there is at least one element which occurs in two given sorted arrays of integers.

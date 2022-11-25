@@ -1,0 +1,21 @@
+41. Write a JavaScript program to check three given numbers, if the three numbers are same return 30 otherwise return 20 and if two numbers are same return 40.
+
+42. Write a JavaScript program to check whether three given numbers are increasing in strict mode or in soft mode.
+Note: Strict mode -> 10, 15, 31 : Soft mode -> 24, 22, 31 or 22, 22, 31 
+
+43. Write a JavaScript program to check from three given numbers (non negative integers) that two or all of them have the same rightmost digit. 
+
+44. Write a JavaScript program to check from three given integers that whether a number is greater than or equal to 20 and less than one of the others.
+
+45. Write a JavaScript program to check two given integer values and return true if one of the number is 15 or if their sum or difference is 15.
+
+46. Write a JavaScript program to check two given non-negative integers that whether one of the number (not both) is multiple of 7 or 11. 
+
+47. Write a JavaScript program to check whether a given number is presents in the range 40..10000.
+For example 40 presents in 40 and 4000
+
+48. Write a JavaScript program to reverse a given string.
+
+49. Write a JavaScript program to replace every character in a given string with the character following it in the alphabet
+
+50. Write a JavaScript program to capitalize the first letter of each word of a given string. 

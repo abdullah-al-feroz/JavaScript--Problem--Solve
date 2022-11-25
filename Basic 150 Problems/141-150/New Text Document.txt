@@ -1,0 +1,22 @@
+141. Write a JavaScript program to find the number of elements which presents in both of the given arrays. 
+
+
+142. Write a JavaScript program to simplify a given absolute path for a file in Unix-style.
+
+143. Write a JavaScript program to sort the strings of a given array of strings in the order of increasing lengths.
+Note: Do not change the order if the lengths of two string are same.
+
+144. Write a JavaScript program to break an address of an url and put it's part into an array.
+Note: url structure : ://.org[/] and there may be no part in the address.
+
+145. Write a JavaScript program to find the maximum integer n such that 1 + 2 + ... + n <= a given integer. 
+
+146. Write a JavaScript program to compute the sum of cubes of all integer from 1 to a given integer.
+
+147. Write a JavaScript program to compute the sum of all digits that occur in a given string. 
+
+148. Write a JavaScript program to swap two halves of a given array of integers of even length. 
+
+149. Write a JavaScript program to change the capitalization of all letters in a given string.
+
+150. Write a JavaScript program to swap pairs of adjacent digits of a given integer of even length.
