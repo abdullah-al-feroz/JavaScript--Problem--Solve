@@ -7,7 +7,7 @@ Author: [Firoz](https://github.com/abdullah-al-feroz)
 
 | Problem Type                                                          | Number of problems                                           |
 | --------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [1](Basic) | [150 exercises with solution](https://github.com/abdullah-al-feroz/JavaScript--Problem--Solve/tree/main/Basic%20150%20Problems)|
+| [1] (Basic) | [150 exercises with solution](https://github.com/abdullah-al-feroz/JavaScript--Problem--Solve/tree/main/Basic%20150%20Problems)|
 | [2](Fundamental(ES6) Part-I)  | [150 exercises with solution](https://github.com/abdullah-al-feroz/JavaScript--Problem--Solve/tree/main/Basic%20150%20Problems)|
 | [3](Fundamental(ES6) Part-II) | [116 exercises with solution](https://github.com/abdullah-al-feroz/JavaScript--Problem--Solve/tree/main/Basic%20150%20Problems)|
 | [4](Functions)		            | [29 exercises with solution ](https://github.com/abdullah-al-feroz/JavaScript--Problem--Solve/tree/main/Basic%20150%20Problems)|
