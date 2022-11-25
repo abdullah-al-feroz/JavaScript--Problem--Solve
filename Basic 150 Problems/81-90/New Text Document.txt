@@ -1,0 +1,28 @@
+81. Write a JavaScript program to add two digits of a given positive integer of length two.
+
+82. Write a JavaScript to add two positive integers without carry.
+
+83. Write a JavaScript to find the longest string from a given array of strings.
+
+84. Write a JavaScript to replace each character of a given string by the next one in the English alphabet. 
+
+85. Write a JavaScript code to divide a given array of positive integers into two parts. First element goes to first part, second element goes to second part, and third element goes to first part and so on. Now compute the sum of two parts and store into an array of size two
+
+86. Write a JavaScript program to find the types of a given angle. 
+
+    Types of angles:
+    Acute angle: An angle between 0 and 90 degrees.
+    Right angle: An 90 degree angle.
+    Obtuse angle: An angle between 90 and 180 degrees.
+    Straight angle: A 180 degree angle.
+
+
+87. Write a JavaScript program to check whether two arrays of integers of same length are similar or not. The arrays will be similar if one array can be obtained from another array by swapping at most one pair of elements.
+
+
+88. Write a JavaScript program that takes two integers and a divisor. If the given divisor divides both integers and it does not divide either, then two given integers are similar. Check whether two given integers are similar or not.
+
+89. Write a JavaScript program to check whether it is possible to replace $ in a given expression x $ y = z with one of the four signs +, -, * or / to obtain a correct expression.  
+For example x = 10, y = 30 and z = 300, we can replace $ with a multiple operator (*) to obtain x * y = z
+
+90. Write a JavaScript program to find the kth greatest element of a given array of integers 
